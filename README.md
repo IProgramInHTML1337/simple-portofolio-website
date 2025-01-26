@@ -11,7 +11,7 @@
 
 ## Visit website
 You can visit my old website that has been published at https://yoru.airi.dev
-![image]([https://pasteboard.co/yvPRzQ4ibOdx.png](https://i.postimg.cc/wv5N8tqH/yv-PRz-Q4ib-Odx.png))
+![image](https://i.postimg.cc/wv5N8tqH/yv-PRz-Q4ib-Odx.png)
 
 ## Credits
 [Graavatar](https://gravatar.com) for image hosting.
