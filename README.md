@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.gravatar.com/avatar/e1949921bd20237e8332481afe6b1554?s=100" width="100">
+    <img src="[https://1.gravatar.com/avatar/f16917188d8a69dd15fb762b96d35e96db621ec03e5fdd03959a24b02b50fab6?size=256" width="100">
     <h1>
         <strong>YoruAkio</strong>
     </h1>
